@@ -1737,7 +1737,7 @@ body {
   text-decoration: underline;
 }
 #footer-info {
-  line-height: 50px;
+  line-height: 1.6em;
   color: #1b181b;
   font-size: 0.85em;
   text-align: center;
